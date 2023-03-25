@@ -38,3 +38,6 @@ ipch/
 *.exe
 *.out
 *.app
+/.vs/Mario_GD/v17/Browse.VC.db
+/.vs/Mario_GD/FileContentIndex
+/.vs/Mario_GD/v17/Browse.VC.db
